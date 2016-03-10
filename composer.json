@@ -3,6 +3,6 @@
     "php": "^7.0.0"
   },
   "require-dev": {
-    "heroku/heroku-buildpack-php": "v92"
+    "heroku/heroku-buildpack-php": "*"
   }
 }

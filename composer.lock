@@ -4,22 +4,22 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "282e4bcb983529bffd2c219a7d78a6d2",
-    "content-hash": "b27314d6b5899ef1dd1b68aa990aea83",
+    "hash": "8c7a0fe393b2d7befb6c001c6961caa9",
+    "content-hash": "f96613ec1ee1cb8b9bffd294e2549be3",
     "packages": [],
     "packages-dev": [
         {
             "name": "heroku/heroku-buildpack-php",
-            "version": "v92",
+            "version": "v95",
             "source": {
                 "type": "git",
                 "url": "https://github.com/heroku/heroku-buildpack-php.git",
-                "reference": "5d0f849ad6f76d7d62fb82036ebf6c4793b1707e"
+                "reference": "f9896322d7651dcb0972e3b9f69e9b388aabad76"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/heroku/heroku-buildpack-php/zipball/5d0f849ad6f76d7d62fb82036ebf6c4793b1707e",
-                "reference": "5d0f849ad6f76d7d62fb82036ebf6c4793b1707e",
+                "url": "https://api.github.com/repos/heroku/heroku-buildpack-php/zipball/f9896322d7651dcb0972e3b9f69e9b388aabad76",
+                "reference": "f9896322d7651dcb0972e3b9f69e9b388aabad76",
                 "shasum": ""
             },
             "bin": [
@@ -50,7 +50,7 @@
                 "nginx",
                 "php"
             ],
-            "time": "2016-02-08 23:53:13"
+            "time": "2016-03-03 02:23:47"
         }
     ],
     "aliases": [],
